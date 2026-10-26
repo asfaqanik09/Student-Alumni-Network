@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Generated Flutter files
+/build/
+/.dart_tool/
