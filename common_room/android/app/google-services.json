@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938251796046",
+    "project_id": "common-room-network",
+    "storage_bucket": "common-room-network.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938251796046:android:186899a0172a2814c4cd1f",
+        "android_client_info": {
+          "package_name": "com.commonroom.common_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhazapfx_S8pirV4U0ZBxCKaBpnS1SIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
