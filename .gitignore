@@ -50,3 +50,6 @@ app.*.map.json
 # Generated Flutter files
 /build/
 /.dart_tool/
+
+# Private backend configuration
+common_room_api/mail_config.php
